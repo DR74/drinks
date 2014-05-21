@@ -1,16 +1,10 @@
 # GlengoolieBlue
 
 ## Ingredients
-<<<<<<< HEAD
 Scotch Glass
-=======
->>>>>>> 62413aad33dff2ae63b6a3758643016647d5faf5
 Ice
 GlengoolieBlue Single Malt
 
 ## Steps
-<<<<<<< HEAD
 Add ice to glass
 Pour shot of GlengoolieBlue
-=======
->>>>>>> 62413aad33dff2ae63b6a3758643016647d5faf5
