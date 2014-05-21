@@ -1,4 +1,4 @@
-# GlengoolieBlue and JackAndCoke
+# JackAndCoke and GlengoolieBlue
 
 ## Ingredients
 Scotch Glass
